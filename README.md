@@ -36,7 +36,10 @@ This is my learning space.
 
 ## Tools I Use
 
-Git • VS Code • IntelliJ • GIMP
+• Git 
+• VS Code 
+• IntelliJ 
+• GIMP
 
 ---
 
